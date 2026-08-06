@@ -1,6 +1,8 @@
 # Fork
 This is a FORK of "The Odin Project"s **css beginner exercises**. Exercises are to be answered. Would they be actually finished? I don't truly know.
 
+Original Repo: https://github.com/TheOdinProject/css-exercises
+
 # TOP readme
 # CSS Exercises
 
