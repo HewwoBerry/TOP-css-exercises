@@ -1,3 +1,7 @@
+# Fork
+This is a FORK of "The Odin Project"s **css beginner exercises**. Exercises are to be answered. Would they be actually finished? I don't truly know.
+
+# TOP readme
 # CSS Exercises
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
